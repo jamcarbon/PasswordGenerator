@@ -7,9 +7,5 @@ You can select the how many characters the password will be conformed of.
 
 I packed the program on .exe for Windows clients using Auto Py to Exe.
 
-
-import random
-
-from tkinter import *
-
-import pyperclip
+Libraries I used:
+random, from tkinter * and pyperclip
