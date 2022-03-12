@@ -6,7 +6,7 @@ import pyperclip
 
 OPTIONS = [
     "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
-# How many characters you want on the password.
+# How many characters you want on the password
 
 characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$.=+()"
 # characters to use on the auto-generated password
@@ -49,3 +49,5 @@ copybtn = Button(window, text="Copy to Clipboard", command=copytoclipboard)
 copybtn.pack()
 
 window.mainloop()
+
+
